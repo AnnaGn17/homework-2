@@ -8,7 +8,7 @@ public class Main {
         long r = 5L;
         float t = 6.8f;
         double u = 64.678545;
-        char i = 36;
+        char i = 'c';
         boolean o = true;
 
 
